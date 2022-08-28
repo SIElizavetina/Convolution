@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>resume.png</file>
+        <file>resumeFalse.png</file>
+        <file>stop.png</file>
+        <file>stopFalse.png</file>
+        <file>icon.png</file>
+        <file>resumeHover.png</file>
+        <file>resumePressed.png</file>
+    </qresource>
+</RCC>
